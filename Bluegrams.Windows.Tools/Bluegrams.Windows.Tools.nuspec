@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$-alpha</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/bluegrams/windows.tools/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/bluegrams/windows.tools</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>© 2019 Bluegrams</copyright>
+    <tags>windows winforms</tags>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\de\**" target="lib\net45\de" />
+  </files>
+</package>
